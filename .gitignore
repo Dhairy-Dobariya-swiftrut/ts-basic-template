@@ -1,0 +1,40 @@
+# Node modules
+node_modules/
+
+# TypeScript build output
+/dist/
+/build/
+
+# Logs
+logs/
+*.log
+
+# Environment variable files
+.env
+
+# TypeScript
+*.tsbuildinfo
+
+# NPM package lock files
+package-lock.json
+yarn.lock
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE files (e.g., VSCode, WebStorm)
+.vscode/
+.idea/
+
+# .env file with sensitive information
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Coverage directory used by testing tools
+coverage/
+
+# Temporary files from code editors
+*.swp
